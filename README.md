@@ -1,3 +1,7 @@
+# Fork - Please Note
+
+This is a fork of the [diffusion_policy](https://github.com/real-stanford/diffusion_policy) repository. For a greater understanding of Diffusion Policy, please visit that repository. This repository contains only the training code relevant to the results presented in our paper, [How Well do Diffusion Policies Learn Kinematic Constraint Manifolds?](https://arxiv.org/abs/2510.01404). 
+
 # Diffusion Policy
 
 [[Project page]](https://diffusion-policy.cs.columbia.edu/)
@@ -18,9 +22,6 @@
 <sup>1</sup>Columbia University,
 <sup>2</sup>Toyota Research Institute,
 <sup>3</sup>MIT
-
-<img src="media/teaser.png" alt="drawing" width="100%"/>
-<img src="media/multimodal_sim.png" alt="drawing" width="100%"/>
 
 ## 🛝 Try it out!
 Our self-contained Google Colab notebooks is the easiest way to play with Diffusion Policy. We provide separate notebooks for  [state-based environment](https://colab.research.google.com/drive/1gxdkgRVfM55zihY9TFLja97cSVZOZq2B?usp=sharing) and [vision-based environment](https://colab.research.google.com/drive/18GIHeOQ5DyjMN8iIRZL2EKZ0745NLIpg?usp=sharing).
